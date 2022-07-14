@@ -1,7 +1,7 @@
 # Belajar-JDBC
 # Project belajar JDBC dengan MariaDb MySQL
 # JDBC = Java Database Connection
-## JDBC API memerikan sebuah interface untuk koneksi Relational Database 
+## JDBC API memerikan sebuah interface untuk koneksi ke Relational Database 
    dengan JDBC API kita dapat mengeksekusi Query SQL dan menerima hasil ResultSet
 ## JDBC DriverManager 
    JDBC memerlukan database driver untuk terhubung dengan Databasenya , Database driver ini spesifik untuk jenis sumber datanya 
